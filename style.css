@@ -1,0 +1,30 @@
+body {
+    background-position: center;
+    background-size: 90%;
+}
+
+.heading {
+    width: 100%;
+    margin: 0;
+    font-size: large;
+}
+
+p {
+    color: white;
+    margin-bottom: 0;
+    font-weight: normal;
+}
+
+.btn-info {
+    background-color: lightpink;
+}
+
+.object_finder {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+}
